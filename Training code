@@ -1,5 +1,3 @@
-//tetris genetic alg ai
-
 #include <chrono>
 #include <poll.h> //macOS only
 #include <stdio.h>
